@@ -5,6 +5,6 @@ Due to storage space restrictions and copyright I can not include all the assets
 I am happy to showcase the full project on request.
 
 # Some UIs from the project
-![Main Menu](UI Images/mainmenu.png "Main Menu")
-![Save Menu](UI Images/savemenu.png "Save Menu")
-![Join Menu](UI Images/joinmenu.png "Join Menu")
+![Main Menu](UI%20Images/mainmenu.png "Main Menu")
+![Save Menu](UI%20Images/savemenu.png "Save Menu")
+![Join Menu](UI%20Images/joinmenu.png "Join Menu")
